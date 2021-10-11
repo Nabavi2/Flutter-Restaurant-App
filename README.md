@@ -1,4 +1,4 @@
-# Attendece
+# Restaurant
 
 A new Flutter project.
 
