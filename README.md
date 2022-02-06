@@ -1,6 +1,6 @@
 # Flutter Restaurant App
 
-This app developted with Flutter and it's API made with Laravel (one of the PHP frameworks )  
+This app developed with Flutter and it's API made with Laravel (one of the PHP's framework )  
 
 This application make for restaurant which can get internal and external orders  from customers.
 
